@@ -6,8 +6,11 @@ Sistem manajemen peminjaman ruang rapat berbasis web yang dibangun menggunakan *
 
 Berikut adalah demonstrasi alur peminjaman ruangan, validasi bentrok jadwal, dan pembatalan reservasi:
 
+login dan berhasil reservasi ruangan
 ![Demo berhasil reservasindan hapus](docs/rapatA.gif)
-![Demo gagal reservasi karena bentrok jadwal](docs/rapatB)
+
+gagal reservasi karena bentrok jadwal, user lain tidak bisa hapus reservasi yang lain 
+![Demo gagal reservasi karena bentrok jadwal](docs/rapatB.gif)
 *(Tunggu sebentar hingga animasi dimuat)*
 
 ---
